@@ -1,4 +1,7 @@
 # speed_reader-
+this pyhton app helps you read at insane speeds 
+by eliminating moving your eyes to read and showing everything at one spot
+
 All you need to do is edit the path in the file and replace it with the path of your text file 
 it wont work unless you do it
 step 1 
