@@ -8,9 +8,9 @@ All you need to do is edit the path in the file & replace it with the path of yo
 
 2. Make a `.txt` file
 
-3. Get the exact path of the file
+3. Get the full path of the file
 
-4. Paste the path where u see `f = open(r"C:\Users\Lenovo\Desktop\reader.txt","r")` save the `.py` file and
+4. Paste the path where u see `f = open(r"reader.txt","r")` save the `.py` file and
 
 5. Paste the text that you want to read & save the txt file
 

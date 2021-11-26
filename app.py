@@ -3,7 +3,7 @@ import time
 tracer(0)
 
 delay = 0.05
-f = open(r"C:\Users\Lenovo\spdreader\reader.txt", "r")
+f = open(r"reader.txt", "r")
 
 # there is an automatic mode where the dealy is set by the length of the word
 
